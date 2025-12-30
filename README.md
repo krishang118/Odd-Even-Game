@@ -61,5 +61,10 @@ pip install streamlit opencv-python mediapipe numpy Pillow
 streamlit run OddEvenGame.py
 ```
 
-Odd-Even-Game
-A real-time web-based hand gesture recognition odd-even game built with OpenCV and MediaPipe.
+## Contributing
+
+Contributions are welcome!
+
+## License
+
+Distributed under the MIT License. 
