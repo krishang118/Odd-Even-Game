@@ -50,7 +50,7 @@ for each_finger:
 
 ## How To Run
 
-1. Make sure you have Python 3.8+ installed, with the laptop/computer having a webcam/camera attached.
+1. Make sure you have Python 3.8+ installed, with the laptop/computer having a webcam/camera set up.
 2. Clone this repository on your local machine.
 3. Install the required dependencies:
 ```bash
